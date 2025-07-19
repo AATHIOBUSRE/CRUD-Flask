@@ -1,0 +1,8 @@
+body{
+    margin: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table, th, td {
+  border: 3px solid black;
+}
